@@ -1,0 +1,4 @@
+title: "PHIPS"
+description: "The Peter Horvath Improvement Proposal repository, similar to BIPs or EIPs"
+theme: jekyll-theme-minimal
+markdown: kramdown
