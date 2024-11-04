@@ -16,6 +16,8 @@ This proposal proposes the addition of a new feature that aims to enhance user e
 Many services now require users to provide their phone numbers but lot of time it is useless. 
 We do not need to input phone number into service (e.g. Packeta) when required code will be send via email too.
 
+Our goal is to make sure that every Peter Horvath does not use a unique phone number unless he or she needs to, since a unique phone number can serve as a unique identifier of such Peter Horvath.
+
 ## Specification
 
 The feature will introduce:
