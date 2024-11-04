@@ -8,32 +8,33 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.1.0/github-markdown.min.css">
     <style>
         body {
-            font-family: 'Helvetica Neue', Arial, sans-serif;
+            font-family: 'Courier New', Courier, monospace; /* Classic cypherpunk font */
+            background-color: #000;
+            color: #0f0; /* Green text for readability contrast */
             max-width: 800px;
             margin: 20px auto;
             padding: 20px;
-            background-color: #f8f8f8;
-            color: #333;
         }
 
         .markdown-body {
+            background-color: #111;
+            border: 1px solid #444;
             padding: 20px;
-            background-color: white;
             border-radius: 5px;
-            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
         }
 
         h1, h2, h3 {
-            color: #2980b9;
+            color: #0ff; /* Bright cyan for headings */
         }
 
         a {
-            color: #2196f3;
-            text-decoration: none;
+            color: #0f0; /* Green links */
+            text-decoration: underline;
         }
 
         a:hover {
-            text-decoration: underline;
+            text-decoration: none; 
+            color: #0ff;
         }
 
         header {
@@ -45,10 +46,11 @@
 </head>
 <body>
     <header>
-        <h1><a href="{{ site.baseurl | prepend: site.url }}">{{ site.title }}</a></h1>
+        <h1 style="color: #0ff;"> <a href="{{ site.baseurl | prepend: site.url }}">{{ site.title }}</a></h1</h1>
     </header>
     <main class="markdown-body">
         {{ content }}
     </main>
+
 </body>
 </html>
