@@ -8,8 +8,6 @@ First review PHIP-0. Then clone the repository and add your PHIP to it. There is
 
 # Proposals
 
-[PHIP-0](content/phip-0.md) - Template
-
 [PHIP-1](content/phip-1.md) - Add phone number
 
 [PHIP-2](content/phip-2.md) - Add SK address

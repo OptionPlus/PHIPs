@@ -1,11 +1,11 @@
 ---
-title: PHIP-0 Template
+title: PHIP-0 TEMPLATE (for future phips)
 author: Peter Horvath
 status: Draft
 created: 2024-11-04
 ---
 
-# Proposal 0: Template
+# Proposal 0: Template (for future phips)
 
 ## Abstract
 
