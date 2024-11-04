@@ -16,6 +16,8 @@ This proposal proposes the addition of a new feature that aims to enhance user e
 All services now require users to provide their address but lot of time it is useless. 
 We do not need to input address in to service (e.g. Gamma.app) when service is digital or when we are buying digital product or delivering someting via Packeta.
 
+Our goal is to make sure that every Peter Horvath does not use a unique address unless he or she needs to, since a unique address can serve as a unique identifier of such Peter Horvath.
+
 ## Specification
 
 The feature will introduce:
