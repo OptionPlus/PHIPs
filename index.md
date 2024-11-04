@@ -4,7 +4,10 @@ Peter Horvath Improvement Proposals (PHIPs) describe standards for the Peter Hor
 
 # Contributing
 
-First review PHIP-0. Then clone the repository and add your PHIP to it. There is a template PHIP [here](content/phip-0.md). Then submit a Pull Request to OptionPlus's [PHIPs repository](https://github.com/OptionPlus/PHIPs).
+1. Clone the repository
+2. There is a template for PHIP, [PHIP-0 here](content/phip-0.md)
+3. Copy PHIP-0 and rework it to your PHIP
+4. Then submit a Pull Request to OptionPlus's [PHIPs repository](https://github.com/OptionPlus/PHIPs).
 
 # Proposals
 
