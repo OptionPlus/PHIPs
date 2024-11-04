@@ -1,9 +1,11 @@
-# Welcome to PHIPs
+# Intro
 
-This site is a collection of PHIPs (Peter Horvath Improvement Proposal)
+Peter Horvath Improvement Proposals (PHIPs) describe standards for the Peter Horvath person, including further good advices. This site is a collection of PHIPs.
 
-## Proposals
+# Contributing
 
-[PHIP-01](content/phip-1.md) - Add phone number
+First review PHIP-0. Then clone the repository and add your PHIP to it. There is a template PHIP [here](content/phip-0.md). Then submit a Pull Request to OptionPlus's [PHIPs repository](https://github.com/OptionPlus/PHIPs).
 
-[PHIP-02](content/phip-2.md) - Add permanent address
+# Proposals
+
+[PHIP-0](content/phip-0.md) - Template
