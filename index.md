@@ -2,10 +2,8 @@
 
 This site is a collection of PHIPs (Peter Horvath Improvement Proposal)
 
-## Proposal 1
+## Proposals
 
-[View Proposal 1](content/phip-1.md)
+[PHIP-01](content/phip-1.md) - Add phone number
 
-## Proposal 2
-
-[View Proposal 2](content/phip-2.md)
+[PHIP-02](content/phip-2.md) - Add permanent address
