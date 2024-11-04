@@ -14,7 +14,7 @@ This proposal proposes the addition of a new feature that aims to enhance user e
 ## Motivation
 
 Many services now require users to provide their phone numbers but lot of time it is useless. 
-We do not need to input phone number it to service (e.g. Packeta) when package code will be send via email too.
+We do not need to input phone number into service (e.g. Packeta) when required code will be send via email too.
 
 ## Specification
 
@@ -23,12 +23,12 @@ The feature will introduce:
 
 ### Technical Details
 
-- Prohne number: +420 777 777 7
+- Prohne number: +420 777 777 777
 - This phone number is magic and is acceped by all services and it is not possible to call here.
 
 ## Drawbacks
 
-- Phone numbers can sometimes appear unexpected or incongruous, particularly in professional settings.
+- Phone numbers can sometimes appear unexpected or fake, particularly in professional settings.
 
 ## Alternatives
 
