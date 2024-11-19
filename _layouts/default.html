@@ -10,7 +10,7 @@
         body {
             font-family: 'Courier New', Courier, monospace;
             background-color: #000;
-            color: #fff; /* Changed to white */
+            color: #fff !important; /* The !important flag overrides other styles */
             max-width: 800px;
             margin: 20px auto;
             padding: 20px;
@@ -18,13 +18,13 @@
 
         .markdown-body {
             background-color: #000;
-            border: 1px #fff;
+            border: 1px #fff solid;
             padding: 20px;
             border-radius: 5px;
         }
 
         h1, h2, h3 {
-            color: #fff;
+            color: #fff !important; /* Force white for headings */
         }
 
         a {
@@ -41,7 +41,6 @@
             text-align: center;
             margin-bottom: 30px;
         }
-
     </style>
 </head>
 <body>
